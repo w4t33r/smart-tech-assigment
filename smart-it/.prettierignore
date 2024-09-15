@@ -1,0 +1,51 @@
+# Node modules
+node_modules
+
+# Build output
+dist
+build
+out
+
+# Vite cache
+.vite
+.vitest
+
+# TypeScript build artifacts
+*.js
+*.jsx
+*.d.ts
+*.d.ts.map
+*.d.ts.__map__
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Editor directories and settings
+.idea
+.vscode
+
+# ESLint cache
+.eslintcache
+
+# Prettier configuration files
+.prettierrc
+.prettierignore
+
+# Next.js output
+.next
+
+# ShadCN (Shadcn UI) artifacts (if any, adjust as needed)
+shadcn-ui.config.js
+
+# Coverage output
+coverage
+
+# Logs and lock files
+yarn-error.log
+pnpm-lock.yaml
+package-lock.json
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+*.log
